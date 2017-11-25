@@ -12,8 +12,8 @@ DATASET=(
   wikipedia
 )
 
-MODELDIR=/tmp/starspace/models
-DATADIR=/tmp/starspace/data
+MODELDIR=/mnt/tmp/starspace/models
+DATADIR=/mnt/tmp/starspace/data
 
 mkdir -p "${MODELDIR}"
 mkdir -p "${DATADIR}"
