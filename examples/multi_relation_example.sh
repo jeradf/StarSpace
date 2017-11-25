@@ -8,8 +8,8 @@
 # of patent rights can be found in the PATENTS file in the same directory.
 #
 
-MODELDIR=/tmp/starspace/models
-DATADIR=/tmp/starspace/data
+MODELDIR=/mnt/tmp/starspace/models
+DATADIR=/mnt/tmp/starspace/data
 DATASET=FB15k
 
 convert_data() {
